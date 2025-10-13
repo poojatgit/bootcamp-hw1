@@ -1,0 +1,1 @@
+Git is a tool used to control files, while GitHub is used as a repository to work with others.
