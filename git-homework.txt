@@ -1,4 +1,5 @@
 # Git-Homework 1
 Question 1 (What is the difference between Git and GitHub?) - Git is a tool, GitHub is an online repository. 
 Question 2 (What’s the difference between ‘git add <file>’, ‘git add .’, and ‘git add -A) - <file> adds ones file, while -A adds everything. 
-Question 3 (What does git push do? What does git pull do?) - push, pushes all you edits and pull, pulls edits that others made
+Question 3 (What does git push do? What does git pull do?) - push, pushes all you edits and pull, pulls edits that others made.
+Question 4 (What’s the difference between fetch and pull?) - with fetch you can see what was added without updating your local branch, pull updates your local branch. 
