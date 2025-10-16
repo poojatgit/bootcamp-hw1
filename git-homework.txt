@@ -1,2 +1,3 @@
 # Git-Homework 1
 Question 1 (What is the difference between Git and GitHub?) - Git is a tool, GitHub is an online repository. 
+Question 2 (What’s the difference between ‘git add <file>’, ‘git add .’, and ‘git add -A) - <file> adds ones file, while -A adds everything. 
