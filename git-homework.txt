@@ -1,1 +1,2 @@
 # Git-Homework 1
+Question 1 (What is the difference between Git and GitHub?) - Git is a tool, GitHub is an online repository. 
